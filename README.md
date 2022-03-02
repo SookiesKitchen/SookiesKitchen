@@ -13,3 +13,5 @@ Here I am cooking up some knowledge and ideas.
 - 😄 Expect some contect about my interests (look into the repository for more)!
 - ⚡ If you have some advice on chasing a career in Web Development, please let me know!
 
+- ❤️ All pages here are WIP - I am just trying new things. Sometimes I think about looks of the page, but mostly I want to see how things work. Please do not judge too harshly.
+
